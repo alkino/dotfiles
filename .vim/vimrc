@@ -1,0 +1,8 @@
+set mouse=a
+set sw=4 ts=4 et
+set nu rnu
+
+set cindent
+set hlsearch
+
+syntax on

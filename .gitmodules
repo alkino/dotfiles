@@ -1,0 +1,9 @@
+[submodule ".vim/pack/plugin/start/ale"]
+	path = .vim/pack/plugin/start/ale
+	url = https://github.com/dense-analysis/ale
+[submodule ".vim/pack/plugin/start/vim-airline"]
+	path = .vim/pack/plugin/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule ".vim/pack/plugin/start/vim-fugitive"]
+	path = .vim/pack/plugin/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
