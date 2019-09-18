@@ -99,3 +99,4 @@ alias cat="/home/cornu/.local/bin/bat"
 . ~/.local/share/bash_command_timer.sh
 
 . /usr/share/modules/init/bash
+alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
